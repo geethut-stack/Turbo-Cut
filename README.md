@@ -15,10 +15,20 @@ Built for a rooted Samsung Galaxy Tab S6 (One UI). Other devices should work but
 - Vibration settings are saved before changing and restored at boot (or with **RESTORE**)
 - ROOT button to (re)request root; ROOT access via [libsu](https://github.com/topjohnwu/libsu)
 
+## Screenshots
+<img width="1600" height="2560" alt="0d134435ead199b04d554a91f1d43576" src="https://github.com/user-attachments/assets/f6c9cf3a-f33f-400c-9d05-1bde26d9a6e4" />
+<img width="1600" height="2560" alt="20e1e586593896998243e628abbfef54" src="https://github.com/user-attachments/assets/bf3e488c-2da0-4650-966c-004e75afae8a" />
+
+
 ## Requirements
 
 - Rooted device (Magisk or KernelSU), Android 10+ (minSdk 29)
 - Android Studio to build
+
+
+## Download
+Download Apk from [Releases](../../releases)
+
 
 ## Build
 
